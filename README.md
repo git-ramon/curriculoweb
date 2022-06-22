@@ -1,6 +1,6 @@
 # Sobre
 
-Sou Desenvolvedor de Software PHP!
+Sou Desenvolvedor de Software PHP!<br>
 Graduação: Bacharel em Sistemas de Informação. 
 
 Alem de todo o conhecimento que adquiri durante esses anos de graduação, Projetos e pessoais e principalmente Freelance e prestação de serviço, destaco alguns que aprofundou e agregou ainda mais para a minha experiencia: 
