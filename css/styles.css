@@ -213,7 +213,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: #074b4c;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -7361,7 +7361,7 @@ textarea.form-control-lg {
 }
 
 .text-warning {
-  color: #ffc107 !important;
+  color: #0a9396  !important;
 }
 
 .text-danger {
@@ -10965,7 +10965,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #074b4c;
 }
 
 .dev-icons {
