@@ -79,7 +79,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   line-height: 1.2;
-  color: #343a40;
+  color: #001219;
 }
 
 h1, .h1 {
@@ -7361,7 +7361,7 @@ textarea.form-control-lg {
 }
 
 .text-warning {
-  color: #0a9396  !important;
+  color: #001219  !important;
 }
 
 .text-danger {
@@ -10955,7 +10955,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
+  background-color: #001219;
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
