@@ -11035,12 +11035,16 @@ section#about {
   background-color: #5424ab;
 }
 
-.grafite{
+.marron-liso{
   background-color: #481700;
 }
 
 .rosa{
   background-color: #930050;
+}
+
+.colortextrosa{
+  color: #930050;
 }
 
 .selected{
