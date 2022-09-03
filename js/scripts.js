@@ -62,8 +62,10 @@ criastorage();
 const getstorage = () => {
   const getcor = window.localStorage.getItem('cor');
 
-  cor.classList.remove('bg-primary');
-  cor.classList.add(getcor)
+  if (getcor) {
+    cor.classList.remove('bg-primary');
+    cor.classList.add(getcor)
+  }
   
     temas.forEach((btn) => {
 
